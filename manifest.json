@@ -4,7 +4,7 @@
 	"short_name": "CJ_Pointless",
 	"version": "1.0",
 	"description": "Pointless is a CircleCI extension that enhances browsing experience on websites such as GitHub.",
-	"author": "Ricardo N Feliciano - https://www.Feliciano.Tech",
+	"author": "CJ Mohsin",
 	"minimum_chrome_version": "75",
 
 	"icons":{
